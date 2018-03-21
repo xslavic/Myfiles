@@ -1,63 +1,78 @@
-﻿#EXTM3U 00:01 01.10.2017
+﻿#EXTM3U 18:33 18.03.2018
 
+#EXTINF:0, 10TV 
+http://89.28.21.90/10TV_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Accent TV
+http://89.28.21.90/AccentTV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Agro TV
+http://89.28.21.90/Agro_TV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Axial TV
+http://89.28.21.90/Axial_TV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Bălți TV
+http://89.28.21.90/BTV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Bravo TV
+http://89.28.21.90/BravoTV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Busuioc TV
+http://89.28.21.90/BusuiocTV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Canal 2
-http://37.233.27.53:8885
-#EXTINF:0, Canal 2 (canal2.md)
-http://91.230.214.75/LIVE/2/1500.m3u8
+http://89.28.21.90/Canal2_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Canal 3
-http://37.233.27.53:8893
-#EXTINF:0, Canal 3 (canal3.md)
-http://91.230.214.75/LIVE/3/2000.m3u8
+http://89.28.21.90/Canal3_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Drochia TV
+http://89.28.21.90/Drochia_TV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Euro TV
+http://89.28.21.90/EuroTV_Chisinau/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Familia Domashniy
-http://37.233.27.53:8892
+http://89.28.21.90/SET/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Gold TV
+http://89.28.21.90/GoldTV_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Gurinel
+http://89.28.21.90/Gurinel_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Impact TV
+http://89.28.21.90/Moldova_Sport_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, ITV
+http://89.28.21.90/ITV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Jurnal TV
-http://37.233.27.53:8896
-#EXTINF:0, Jurnal TV (jurnaltv.md)
-http://flux.jtv.md/jtv-540p.flv
+http://89.28.21.90/JurnalTV_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, MBC Digi 24
+http://89.28.21.90/MBC_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Media TV
+http://89.28.21.90/Media_TV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Moldova 1
-http://37.233.27.53:8881
-#EXTINF:0, Moldova 1 (trm.md)
-rtmp://live.trm.md:1935/live/MoldovaUnu1
+http://89.28.21.90/Moldova_1/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Moldova 2
-http://37.233.27.53:8889
-#EXTINF:0, Moldova 2  (trm.md)
-rtmp://live.trm.md:1935/live/MoldovaDoi2
+http://89.28.21.90/Moldova_2/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Național 4
-http://37.233.27.53:8884
+http://89.28.21.90/N4/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Noroc TV
+http://89.28.21.90/Noroc_TV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, НТВ Молдова
+http://89.28.21.90/NTV_Moldova/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Prime
-http://37.233.27.53:8894
-#EXTINF:0, Prime (prime.md)
-http://91.230.214.75/LIVE/1/2000.m3u8
+http://89.28.21.90/Prime_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, PRO TV Chișinău
-http://37.233.27.53:8895
-#EXTINF:0, PRO TV Chișinău (protv.md)
-http://hls.protv.md/hls/protv.m3u8
+http://89.28.21.90/ProTV_Chisinau/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, Publika TV
-http://37.233.27.53:8887
-#EXTINF:0, Publika TV (publika.md)
-http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:0, Realitatea TV
-http://37.233.27.53:8886
+http://89.28.21.90/Publika_HD/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, РЕН ТВ Молдова
+http://89.28.21.90/RenTV_Moldova/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, РТР Молдова
+http://89.28.21.90/RTR_Moldova/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, RU TV Moldova
+http://89.28.21.90/RUTV_Moldova/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, SOR TV
+http://89.28.21.90/SorTV/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, СТС MEGA
-http://37.233.27.53:8891
-#EXTINF:0, TV5 Monde
-http://37.233.27.53:8890
+http://89.28.21.90/CTC_Mega/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, ТНТ Exclusiv TV
+http://89.28.21.90/Exclusiv_TNT/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, TV8
-http://37.233.27.53:8897
+http://89.28.21.90/TV7/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, TVC 21
-http://37.233.27.53:8888
+http://89.28.21.90/TVC21/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, TV Prim Glodeni
+http://89.28.21.90/TVPrim/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
 #EXTINF:0, TVR Moldova
-http://37.233.27.53:8883
-#EXTINF:0, TVR Moldova (tvrmoldova.md)
-http://fms110.mediadirect.ro:1937/live3/_definst_/tvrmoldova/playlist.m3u8?publisher=4&token=6ab7e6af553508df19824ac1ba94946bf4d12691881ae051
-
-
-
-
-
-
-
-
-
-
-
+http://89.28.21.90/TVR/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
+#EXTINF:0, Zona M
+http://89.28.21.90/ZonaM/tracks-v1a1/index.m3u8?token=token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a
